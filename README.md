@@ -46,4 +46,5 @@ When deploying the backend, ensure you set the `GROQ_API_KEY` and `NODE_ENV=prod
 ## Contributors
 
 * **Rahul Raj R** – Project Creator & Full-Stack Developer
-* **AkshayD444** – Contributor
+* **[Akshay D](https://github.com/akshayd444)** (@akshayd444) – Contributor
+
